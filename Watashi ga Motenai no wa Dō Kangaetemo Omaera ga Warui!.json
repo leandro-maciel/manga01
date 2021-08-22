@@ -4,5 +4,14 @@
   "artist": "Nico Tanigawa",
   "author": "Nico Tanigawa",
   "cover": "https://uploads.mangadex.org/covers/e182b09f-09ab-4201-8f37-0ced6822eb39/b2ddc5f9-cf60-4511-90cf-9cdd5828a9f5.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Mojo",
+      "volume": "1",
+      "last_updated": "1629649783",
+      "groups": {
+        "EWMangás, FYMangás": "/proxy/api/imgur/chapter/32WpgjZ/"
+      }
+    }
+  }
 }
