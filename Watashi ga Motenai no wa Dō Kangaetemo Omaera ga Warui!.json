@@ -12,6 +12,22 @@
       "groups": {
         "EWMangás, FYMangás": "/proxy/api/imgur/chapter/32WpgjZ/"
       }
+    },
+    "2": {
+      "title": "Não sou popular porque... Eu observo pessoas",
+      "volume": "1",
+      "last_updated": "1629651521",
+      "groups": {
+        "EWMangás, FYMangás": "/proxy/api/imgur/chapter/irN7743/"
+      }
+    },
+    "3": {
+      "title": "Encontrando uma velha amiga",
+      "volume": "1",
+      "last_updated": "1629651809",
+      "groups": {
+        "EWMangás, FYMangás": "/proxy/api/imgur/chapter/PjRtEQw/"
+      }
     }
   }
 }
