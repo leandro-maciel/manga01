@@ -36,6 +36,46 @@
       "groups": {
         "EWMangás, FYMangás": "/proxy/api/imgur/chapter/DMxBJcY/"
       }
+    },
+    "5": {
+      "title": "Eu não sou popular, então vou me esconder por aqui",
+      "volume": "1",
+      "last_updated": "1629755905",
+      "groups": {
+        "TraduzindoBR": "/proxy/api/imgur/chapter/UJxzuGB/"
+      }
+    },
+    "6": {
+      "title": "Não sou popular, então vou jogar",
+      "volume": "1",
+      "last_updated": "1629756045",
+      "groups": {
+        "TraduzindoBR": "/proxy/api/imgur/chapter/rAyAjEY/"
+      }
+    },
+    "7": {
+      "title": "Por eu não ser popular, nada de novo acontece no meu dia-a-dia",
+      "volume": "1",
+      "last_updated": "1629756157",
+      "groups": {
+        "TraduzindoBR": "/proxy/api/imgur/chapter/uh5ZBAe/"
+      }
+    },
+    "8": {
+      "title": "Por eu não ser popluar, eu me preocupo com coisas sem importância",
+      "volume": "1",
+      "last_updated": "1629756237",
+      "groups": {
+        "TraduzindoBR": "/proxy/api/imgur/chapter/wMBflPs/"
+      }
+    },
+    "9": {
+      "title": "Já que eu não sou popular, eu vou desenhar um retrato",
+      "volume": "1",
+      "last_updated": "1629756362",
+      "groups": {
+        "TraduzindoBR": "/proxy/api/imgur/chapter/jIeWArV/"
+      }
     }
   }
 }
