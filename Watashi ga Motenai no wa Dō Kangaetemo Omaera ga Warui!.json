@@ -77,6 +77,14 @@
         "TraduzindoBR": "/proxy/api/imgur/chapter/jIeWArV/"
       }
     },
+    "9,1": {
+      "title": "Omake",
+      "volume": "1",
+      "last_updated": "1629932031",
+      "groups": {
+        "TraduzindoBR": "/proxy/api/imgur/chapter/7yFQTCm/"
+      }
+    },
     "10": {
       "title": "Eu não sou popular, então vou ser alguém sem emoções",
       "volume": "1",
@@ -149,14 +157,6 @@
         "TraduzindoBR": "/proxy/api/imgur/chapter/9bzNWOr/"
       }
     },
-    "19": {
-      "title": "Por que eu não sou popular, o segundo semestre está começando",
-      "volume": "3",
-      "last_updated": "1629932219",
-      "groups": {
-        "Kusuo Traduções": "/proxy/api/imgur/chapter/xONcg7w/"
-      }
-    },
     "18,1": {
       "title": "Especial de natal",
       "volume": "2",
@@ -173,13 +173,13 @@
         "TraduzindoBR": "/proxy/api/imgur/chapter/uNTsvtu/"
       }
     },
-    "9,1": {
-      "title": "Omake",
-      "volume": "1",
-      "last_updated": "1629932031",
+    "19": {
+      "title": "Por que eu não sou popular, o segundo semestre está começando",
+      "volume": "3",
+      "last_updated": "1629932219",
       "groups": {
-        "TraduzindoBR": "/proxy/api/imgur/chapter/7yFQTCm/"
+        "Kusuo Traduções": "/proxy/api/imgur/chapter/xONcg7w/"
       }
-    }
+    },
   }
 }
