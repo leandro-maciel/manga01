@@ -36,6 +36,22 @@
       "groups": {
         "EWMangás, FYMangás": "/proxy/api/imgur/chapter/DMxBJcY/"
       }
+    },
+    "5": {
+      "title": "Eu não sou popular, então vou me esconder por aqui",
+      "volume": "1",
+      "last_updated": "1630153686",
+      "groups": {
+        "TraduzindoBR": "/proxy/api/imgur/chapter/UJxzuGB/"
+      }
+    },
+    "6": {
+      "title": "Não sou popular, então eu vou jogar",
+      "volume": "1",
+      "last_updated": "1630153748",
+      "groups": {
+        "TraduzindoBR": "/proxy/api/imgur/chapter/rAyAjEY/"
+      }
     }
   }
 }
